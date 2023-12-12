@@ -5,12 +5,16 @@
 Hi, I'm a developer...
 
 <p align="left">
-      <a href="https://www.facebook.com/hung.041203">
-         <img alt="facebook icon" title="Facebook" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+    <a href="https://www.facebook.com/yourusername">
+        <img alt="facebook icon" title="Facebook" src="https://custom-icon-badges.demolab.com/facebook/followers/yourusername?color=%231877F2&labelColor=%231877F2&style=for-the-badge&logo=facebook"/></a> 
+    <a href="https://www.instagram.com/yourusername">
+        <img alt="instagram followers" title="Instagram Followers" src="https://custom-icon-badges.demolab.com/instagram/followers/yourusername?color=%23E4405F&labelColor=%23E4405F&style=for-the-badge&logo=instagram"/></a> 
+    <a href="https://twitter.com/yourusername">
+        <img alt="twitter followers" title="Twitter Followers" src="https://custom-icon-badges.demolab.com/twitter/followers/yourusername?color=%231DA1F2&labelColor=%231DA1F2&style=for-the-badge&logo=twitter"/></a>
+    <a href="https://www.linkedin.com/in/yourusername">
+        <img alt="linkedin followers" title="LinkedIn Followers" src="https://custom-icon-badges.demolab.com/linkedin/followers/yourusername?color=%230077B5&labelColor=%230077B5&style=for-the-badge&logo=linkedin"/></a>
+    <a href="https://github.com/yourusername?tab=followers">
+        <img alt="followers on github" title="Followers on Github" src="https://custom-icon-badges.demolab.com/github/followers/yourusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github"/></a>
+    <a href="https://stackoverflow.com/users/your_user_id">
+        <img alt="stackoverflow reputation" title="StackOverflow Reputation" src="https://custom-icon-badges.demolab.com/stackoverflow/reputation/your_user_id?color=%23F48024&labelColor=%23F48024&style=for-the-badge&logo=stackoverflow"/></a>
+</p>
