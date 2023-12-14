@@ -4,7 +4,7 @@
 
 I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, and use many languages and tools that am interested in... 
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 ### Backend Development
   <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -78,4 +78,17 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
   <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png"/>
   <img align="left" alt="AutoHotkey" title="AutoHotkey" width="30px" style="padding-right:10px;" src="https://store-images.s-microsoft.com/image/apps.6785.14308665483973753.abd12bec-94a0-435a-8058-4c7f82a16c2b.4db272c5-dc36-4c22-9e47-27ccc4e79d0c?h=464"/>
   <img align="left" alt="Overleaf" title="Overleaf" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/768px-Overleaf_Logo.svg.png"/>
+
+  <br/>
+  <br/>
+  <br/>
+
+## 📞 Contact
+
+  <a href="https://www.facebook.com/hung.041203"><img align="left" alt="Facebook" title="Facebook" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"/></a>
+  <a href="https://www.instagram.com/ges_0412.4/"><img align="left" alt="Instagram" title="Instagram" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/></a>
+  <a href="https://twitter.com/LamTienHung0412"><img align="left" alt="Twitter" title="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg"/></a>
+  <a href="https://www.linkedin.com/in/lam-hung-a61599256/"><img align="left" alt="Linkedin" title="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/></a>
+  <a href="https://stackoverflow.com/users/17829107/tien-hung"><img align="left" alt="StackOverFlow" title="StackOverFlow" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/></a>
+ 
 
