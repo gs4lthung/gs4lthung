@@ -90,5 +90,10 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
   <a href="https://twitter.com/LamTienHung0412"><img align="left" alt="Twitter" title="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg"/></a>
   <a href="https://www.linkedin.com/in/lam-hung-a61599256/"><img align="left" alt="Linkedin" title="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/></a>
   <a href="https://stackoverflow.com/users/17829107/tien-hung"><img align="left" alt="StackOverFlow" title="StackOverFlow" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/></a>
- 
+  <br/>
+  <br/>
+  <br/>
+
+
+ *(Tip: Right-click and select "Open link in new tab" if you want to contact with me. Thanks 💙)*
 
