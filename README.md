@@ -1,8 +1,8 @@
 # Lam Tien Hung
 
-**` Developer `**
+**` Not yet a Developer `**
 
-Hi, I'm a developer...
+Hi, I'm...
 
 <p align="left">
   
