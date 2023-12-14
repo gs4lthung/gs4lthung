@@ -85,7 +85,7 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
 
 ## 📞 Contact
 
-  <a href="https://www.facebook.com/hung.041203"><img align="left" alt="Facebook" title="Facebook" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"/></a>
+  <a href="https://www.facebook.com/hung.041203" target="_blank"><img align="left" alt="Facebook" title="Facebook" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"/></a>
   <a href="https://www.instagram.com/ges_0412.4/"><img align="left" alt="Instagram" title="Instagram" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/></a>
   <a href="https://twitter.com/LamTienHung0412"><img align="left" alt="Twitter" title="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg"/></a>
   <a href="https://www.linkedin.com/in/lam-hung-a61599256/"><img align="left" alt="Linkedin" title="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/></a>
