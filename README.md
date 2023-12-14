@@ -1,15 +1,15 @@
-# Lam Tien Hung 🇻🇳
+# Welcome to my Github 🐐
 
 **` Not yet a Developer `**
 
-Hi, I'm...
+I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, and use many languages and tools that am interested in... 
 
 ### 🧰 Languages and Tools
 
 ### Backend Development
   <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Hibernate" title="Hibernate" width="30px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/Gwj_E5u_VCKXCM2JuedvsOnTN4REq_m68RKB6NQM5X4kT6mpHrqHP27uoRp6B7QX-3w=w240-h480-rw"/>
-  <img align="left" alt="Spring" title="Spring Framework" width="40px" style="padding-right:10px;" src="https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png"/>
+  <img align="left" alt="Spring" title="Spring Framework" width="30px" style="padding-right:10px;" src="https://dreamix.eu/wp-content/uploads/2023/09/Java-daily0312.png"/>
   <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default"/>
   <img align="left" alt="Restful API" title="Restful API" width="30px" style="padding-right:10px;" src="https://www.opc-router.de/wp-content/uploads/2020/04/Swagger-1-150x150.png"/>
 
@@ -21,11 +21,14 @@ Hi, I'm...
   <img align="left" alt="Markdown" title="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2954/PNG/512/markdown_icon_184831.png"/>
   <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
   <img align="left" alt="SCSS" title="SCSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"/>
+  <img align="left" alt="Boostrap" title="Boostrap" width="40px" style="padding-right:10px;" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"/>
+  <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right:10px;" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-sm.png"/>
   <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1199/1199118.png"/>
   <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png"/>
   <img align="left" alt="EJS" title="EJS" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"/>
   <img align="left" alt="nodeJS" title="nodeJS" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png"/>
   <img align="left" alt="Passport JS" title="Passport JS" width="20px" style="padding-right:10px;" src="https://pnglib.nyc3.cdn.digitaloceanspaces.com/uploads/2020/08/passport-logo_5f33f77390b90.png"/>
+  <img align="left" alt="npm" title="npm" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/npm.png"/>
 
   <br/>
 
