@@ -22,7 +22,7 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
 ### Frontend Development
   <img align="left" alt="ReactJS" title="ReactJS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
   <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
-  <img align="left" alt="Markdown" title="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2954/PNG/512/markdown_icon_184831.png"/>
+  <img align="left" alt="Markdown" title="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-markdown-3445720-2878652.png"/>
   <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
   <img align="left" alt="SCSS" title="SCSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"/>
   <img align="left" alt="Boostrap" title="Boostrap" width="40px" style="padding-right:10px;" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"/>
@@ -57,6 +57,7 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
 
 ### Databases
   <img align="left" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/256/5968/5968364.png"/>
+  <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"/>
   <img align="left" alt="Postgre SQL" title="Postgre SQL" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"/>
 
   <br/>
