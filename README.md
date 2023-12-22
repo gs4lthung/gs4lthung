@@ -66,10 +66,8 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
   <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png"/>
   <img align="left" alt="Blynk" title="Blynk" width="30px" style="padding-right:10px;" src="https://onion.io/wp-content/uploads/2017/06/blynk-logo.png"/>
   <img align="left" alt="Wokwi" title="Wokwi" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/56967200?s=280&v=4"/>
-  <img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
   <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png"/>
-
-
+  <img align="left" alt="C++" title="C++" width="35px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
 
   <br/>
 
