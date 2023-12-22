@@ -11,7 +11,6 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
 ### Backend Development
   <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Hibernate" title="Hibernate" width="30px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/Gwj_E5u_VCKXCM2JuedvsOnTN4REq_m68RKB6NQM5X4kT6mpHrqHP27uoRp6B7QX-3w=w240-h480-rw"/>
-  <img align="left" alt="Spring" title="Spring Framework" width="30px" style="padding-right:10px;" src="https://dreamix.eu/wp-content/uploads/2023/09/Java-daily0312.png"/>
   <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default"/>
   <img align="left" alt="Restful API" title="Restful API" width="30px" style="padding-right:10px;" src="https://www.opc-router.de/wp-content/uploads/2020/04/Swagger-1-150x150.png"/>
   <img align="left" alt="LocaltoNet" title="LocaltoNet" width="30px" style="padding-right:10px;" src="https://image.winudf.com/v2/image1/Y29tLmxvY2FsdG9uZXQubG9jYWx0b25ldGFwcF9pY29uXzE2NzU1MzcwOTdfMDE3/icon.png?w=184&fakeurl=1"/>
@@ -29,9 +28,8 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
   <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right:10px;" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-sm.png"/>
   <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1199/1199118.png"/>
   <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png"/>
-  <img align="left" alt="EJS" title="EJS" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"/>
   <img align="left" alt="nodeJS" title="nodeJS" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png"/>
-  <img align="left" alt="Passport JS" title="Passport JS" width="20px" style="padding-right:10px;" src="https://pnglib.nyc3.cdn.digitaloceanspaces.com/uploads/2020/08/passport-logo_5f33f77390b90.png"/>
+  <img align="left" alt="passportJS" title="passport JS" width="20px" style="padding-right:10px;" src="https://pnglib.nyc3.cdn.digitaloceanspaces.com/uploads/2020/08/passport-logo_5f33f77390b90.png"/>
   <img align="left" alt="npm" title="npm" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/npm.png"/>
   <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
 
@@ -65,8 +63,6 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
 ### Internet Of Things
   <img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
   <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png"/>
-  <img align="left" alt="Blynk" title="Blynk" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/11541426?v=4"/>
-  <img align="left" alt="Tinkercad" title="Tinkercad" width="30px" style="padding-right:10px;" src="https://www.tinkercad.com/favicon.ico"/>
 
 
 
@@ -78,17 +74,9 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
 
   <br/>
 
-### Operation Systems
-  <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png"/> 
-  <img align="left" alt="Ubuntu" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
-  <img align="left" alt="Fedora" title="Fedora" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/512px-Fedora_icon_%282021%29.svg.png?20220308003156"/>
-
-  <br/>
-
 ### OTHERS
   <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png"/>
   <img align="left" alt="AutoHotkey" title="AutoHotkey" width="30px" style="padding-right:10px;" src="https://store-images.s-microsoft.com/image/apps.6785.14308665483973753.abd12bec-94a0-435a-8058-4c7f82a16c2b.4db272c5-dc36-4c22-9e47-27ccc4e79d0c?h=464"/>
-  <img align="left" alt="Overleaf" title="Overleaf" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/768px-Overleaf_Logo.svg.png"/>
   <img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"/>
 
   <br/>
