@@ -32,7 +32,6 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
   <img align="left" alt="EJS" title="EJS" width="30px" style="padding-right:20px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png"/>
   <img align="left" alt="passportJS" title="passport JS" width="20px" style="padding-right:20px;" src="https://pnglib.nyc3.cdn.digitaloceanspaces.com/uploads/2020/08/passport-logo_5f33f77390b90.png"/>
   <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:20px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
-  <img align="left" alt="LocaltoNet" title="LocaltoNet" width="30px" style="padding-right:20px;" src="https://image.winudf.com/v2/image1/Y29tLmxvY2FsdG9uZXQubG9jYWx0b25ldGFwcF9pY29uXzE2NzU1MzcwOTdfMDE3/icon.png?w=184&fakeurl=1"/>
   <img align="left" alt="Markdown" title="Markdown" width="30px" style="padding-right:20px;" src="https://cdn.iconscout.com/icon/free/png-256/free-markdown-3445720-2878652.png"/>
   
   <br/>
@@ -70,7 +69,6 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
 ### Internet Of Things
   <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right:20px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png"/>
   <img align="left" alt="Blynk" title="Blynk" width="30px" style="padding-right:20px;" src="https://onion.io/wp-content/uploads/2017/06/blynk-logo.png"/>
-  <img align="left" alt="Wokwi" title="Wokwi" width="30px" style="padding-right:20px;" src="https://avatars.githubusercontent.com/u/56967200?s=280&v=4"/>
   <img align="left" alt="C" title="C" width="30px" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png"/>
   <img align="left" alt="C++" title="C++" width="35px" style="padding-right:20px;" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
 
@@ -80,14 +78,7 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
 ### Ethical Hacking
   <img align="left" alt="Kali Linux" title="Kali Linux" width="30px" style="padding-right:20px;" src="https://play-lh.googleusercontent.com/Oriscl3_nvmDPncct6gStmNuQW_4tqHVozy1skG0vd8Jk22KYNMYYJfKq0vcyU-NKdw"/>
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
-
-  <br/>
-  <br/>
-
-### OTHERS
-  <img align="left" alt="AutoHotkey" title="AutoHotkey" width="30px" style="padding-right:20px;" src="https://store-images.s-microsoft.com/image/apps.6785.14308665483973753.abd12bec-94a0-435a-8058-4c7f82a16c2b.4db272c5-dc36-4c22-9e47-27ccc4e79d0c?h=464"/>
   <img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"/>
-  <img align="left" alt="Overleaf" title="Overleaf" width="30px" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/768px-Overleaf_Logo.svg.png"/>
 
   <br/>
   <br/>
