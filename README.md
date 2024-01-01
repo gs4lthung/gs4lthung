@@ -22,7 +22,7 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
   <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:20px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
   <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:20px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
   <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:20px;" src="https://cdn-icons-png.flaticon.com/512/1199/1199118.png"/>
-  <img align="left" alt="Boostrap" title="Boostrap" width="40px" style="padding-right:20px;" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"/>
+  <img align="left" alt="Boostrap" title="Boostrap" width="35px" style="padding-right:20px;" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png"/>
   <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right:20px;" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-sm.png"/>
   <img align="left" alt="SCSS" title="SCSS" width="30px" style="padding-right:20px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"/>
   <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right:20px;" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png"/>
