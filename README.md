@@ -1,4 +1,4 @@
-# Welcome to my Github 🐐
+<!-- # Welcome to my Github 🐐
 
 **` Not yet a Developer `**
 
@@ -96,4 +96,4 @@ I'm Lam Tien Hung, a Junior at FPT University in Viet Nam. I love to try, code, 
   <br/>
 
 
-  🔷 Tip: Right-click and select "Open link in new tab" if you want to contact with me. Thanks 💙
+  🔷 Tip: Right-click and select "Open link in new tab" if you want to contact with me. Thanks 💙  */ -->
