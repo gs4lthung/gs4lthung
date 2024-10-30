@@ -13,7 +13,7 @@ Love Coding <3
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gs4lthung&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gs4lthung&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gs4lthung&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gs4lthung&theme=one_dark_pro&hide_border=false&layout=compact&hide=)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gs4lthung&theme=radical&no-frame=false&no-bg=true&margin-w=4)
