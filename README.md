@@ -1,33 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F73C7E&width=435&lines=Hi+there!+I'm+Ti%C3%AAn+H%C6%B0ng+%F0%9F%91%8B;I'm+a+developer.;Love+building+cool+stuffs+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
-<p align="center">
-  💻 Developer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner
-</p>
-
 <p align="center">
   <a href="https://stackexchange.com/users/23821498">
     <img src="https://stackexchange.com/users/flair/23821498.png?theme=dark" width="208" height="58" alt="StackExchange Flair">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3QwZXgyejV3MGFsMXhzbTRvN3MxdXJrcTBpb2QxNjVvNzZncTc4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elPt1FL04JjHjrd2k0/giphy.gif" width="20%"/>
-</p>
-
 ---
 
-## 🌐 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hung.041203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lam-hung-a61599256)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17829107)
-
-# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -77,16 +62,3 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gs4lthung&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gs4lthung&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gs4lthung&theme=neon&hide_border=false&layout=compact&hide=ejs,tex,html,css,scss,jupyter%20notebook,pug,astro,svelte)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gs4lthung&theme=neon&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gs4lthung&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gs4lthung&theme=tokyo-night)
