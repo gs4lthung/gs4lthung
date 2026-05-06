@@ -44,7 +44,7 @@
 ![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=fff&variant=branded)
 ![MongoDB](https://shieldcn.dev/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=fff&variant=branded)
 ![Supabase](https://shieldcn.dev/badge/Supabase-3FCF8E.svg?logo=supabase&logoColor=000&variant=branded)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker](https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&logoColor=fff&variant=branded)
 ![Redis](https://shieldcn.dev/badge/Redis-FF4438.svg?logo=redis&logoColor=fff&variant=branded)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
