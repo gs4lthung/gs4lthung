@@ -9,7 +9,6 @@
 ![RAG Enabled](https://shieldcn.dev/badge/RAG-enabled-0EA5E9.svg?logo=huggingface&variant=secondary)
 ![MCP Ready](https://shieldcn.dev/badge/MCP-ready-111827.svg?logo=ri%3AVscMcp&variant=secondary)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://shieldcn.dev/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=fff&variant=branded)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
