@@ -5,9 +5,6 @@
 </p>
 
 ---
-![Agentic](https://shieldcn.dev/badge/Agentic-workflows-D97757.svg?logo=anthropic&variant=secondary)
-![RAG Enabled](https://shieldcn.dev/badge/RAG-enabled-0EA5E9.svg?logo=huggingface&variant=secondary)
-![MCP Ready](https://shieldcn.dev/badge/MCP-ready-111827.svg?logo=ri%3AVscMcp&variant=secondary)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://shieldcn.dev/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=fff&variant=branded)
@@ -52,5 +49,3 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-%23333333.svg?style=for-the-badge&logo=webrtc&logoColor=white)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![BunnyCDN](https://img.shields.io/badge/BunnyCDN-%23FFAA49.svg?style=for-the-badge&logo=bunnydotnet&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
