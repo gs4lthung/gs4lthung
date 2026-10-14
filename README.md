@@ -44,3 +44,5 @@
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![snake](https://raw.githubusercontent.com/gs4lthung/gs4lthung/output/snake-dark.svg)
